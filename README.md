@@ -1,2 +1,3 @@
 # Xterias
-useful VBA
+ useful VBA
+ This software is released under the MIT License, see LICENSE.txt.
